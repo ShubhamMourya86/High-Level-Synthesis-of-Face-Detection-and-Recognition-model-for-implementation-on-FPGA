@@ -7,7 +7,9 @@ through HLS4ml.
 
 # Tools:
 1.Keras2C : Generates C from the Keras model.
+
 2.Vivado HLS : Used to perform HLS.
+
 3.HLS4ML
 
 # Execution and Conversion
